@@ -349,8 +349,6 @@ https://hiplayer.hibridcdn.net/t/rotana-lbc.m3u8
 https://shls-lbci-prod-dub.shahid.net/out/v1/d8cce30036e743318a7f338539689968/index.m3u8
 #EXTINF:-1 group-title="AR | LEBANON" tvg-id="NabaaTV.lb" tvg-name="Nabaa TV" tvg-logo="https://nabaa.tv/wp-content/uploads/2018/07/nabaa-logo-66x116.png" ,Nabaa TV
 http://31.14.40.237:1935/live/Nabaa/chunklist.m3u8
-#EXTINF:-1 group-title="AR | LEBANON" tvg-id="NabaaTV.lb" tvg-name="Nabaa TV" tvg-logo="https://nabaa.tv/wp-content/uploads/2018/07/nabaa-logo-66x116.png" ,Nabaa TV SD
-https://5dc7d824154d0.streamlock.net/live/Nabaa/playlist.m3u8
 #EXTINF:-1 group-title="AR | LEBANON" tvg-id="NBNHD.lb" tvg-name="NBN HD" ,NBN HD SD
 https://nbntv.me:8443/nbntv/index.m3u8
 #EXTINF:-1 group-title="AR | LEBANON" tvg-id="Newvision.lb" tvg-name="Newvision" tvg-logo="http://www.newvision.tv/wp-content/uploads/2020/05/Logo.jpg" ,Newvision
@@ -1153,8 +1151,6 @@ http://mfe.cliptv.az/dash/Lider_SD.ism/playlist.mpd
 http://mfe.cliptv.az/dash/MuzTV_Azeri_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="AS | AZERBAIJAN" tvg-id="Mdniyyt.az" tvg-name="Mədəniyyət" ,Mədəniyyət
 http://mfe.cliptv.az/dash/Medeniyyet_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="AS | AZERBAIJAN" tvg-id="STARTVSD.az" tvg-name="STAR TV SD" ,STAR TV SD
-http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8
 #EXTINF:-1 group-title="AS | AZERBAIJAN" tvg-id="TV7.az" tvg-name="TV7" ,TV7
 http://media.az-mediaserver.com:1935/7064/7064/chunklist_w464537904.m3u8
 #EXTINF:-1 group-title="AS | AZERBAIJAN" ,Space
@@ -1233,8 +1229,6 @@ https://tv-trtkurdi.live.trt.com.tr/master_720.m3u8
 https://tv-trtkurdi.live.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="AS | KURDISH" tvg-id="Rudaw.tr" tvg-name="Rudaw" tvg-logo="https://i.ibb.co/f8Xp0h9/pBgMaFV.jpg" ,Rudaw HD
 https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
-#EXTINF:-1 group-title="AS | KURDISH" ,STERK TV HD
-http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/24.m3u8
 #EXTINF:-1 group-title="AS | KURDISH" ,ZAGROS TV
 https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/chunklist.m3u8
 #EXTINF:-1 group-title="AS | KURDISH" ,ZAGROS TV HD+
@@ -1297,14 +1291,8 @@ https://59cba4d34b678.streamlock.net/canlitv/kibrisadatv/chunklist.m3u8
 https://59cba4d34b678.streamlock.net/canlitv/kibrisadatv/playlist.m3u8
 #EXTINF:-1 group-title="EU | KKTC" tvg-id="BRT1FHD.cy" tvg-name="BRT 1 FHD" ,BRT 1 FHD
 http://kuzeykibris.tv/m3u8/tv_brt1.m3u8
-#EXTINF:-1 group-title="EU | KKTC" tvg-id="BRT1HD.cy" tvg-name="BRT 1 HD" tvg-logo="https://i.imgur.com/8GocquE.png" ,BRT 1 HD
-http://wms.brtk.net:1935/live/BRTHD/playlist.m3u8
 #EXTINF:-1 group-title="EU | KKTC" tvg-id="BRT2FHD.cy" tvg-name="BRT 2 FHD" ,BRT 2 FHD
 http://kuzeykibris.tv/m3u8/tv_brt2.m3u8
-#EXTINF:-1 group-title="EU | KKTC" tvg-id="BRT3.cy" tvg-name="BRT 3" tvg-logo="https://i.ibb.co/0Fz0rSB/yoNkkLc.png" ,BRT 3
-http://wms.brtk.net:1935/live/brt2/BratuMarian.m3u8
-#EXTINF:-1 group-title="EU | KKTC" tvg-id="BRT3.cy" tvg-name="BRT 3" tvg-logo="https://i.imgur.com/HjuOfNf.png" ,BRT 3
-http://wms.brtk.net:1935/live/brt2/playlist.m3u8
 #EXTINF:-1 group-title="EU | KKTC" tvg-id="KibrisTV.cy" tvg-name="Kibris TV" ,Kibris TV
 http://kuzeykibris.tv/m3u8/tv_ktv.m3u8
 #EXTINF:-1 group-title="EU | KKTC" tvg-id="KibrisTV.cy" tvg-name="Kibris TV" ,Kibris TV
@@ -2041,5 +2029,5 @@ https://canliyayin.buyukalanya.com/hls/byk/buyukalanya.m3u8
 https://cdn-cekmekoybeltv.yayin.com.tr/cekmekoybeltv/cekmekoybeltv_1080p/playlist.m3u8
 #EXTINF:-1 group-title="TR | YEREL" ,CEM TV
 http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/104.m3u8
-#EXTINF:-1 group-title="TR | ULUSAL" tvg-id="KANALB.tr" tvg-name="KANAL B" ,KANAL B
+#EXTINF:-1 group-title="TR | YEREL" tvg-id="KANALB.tr" tvg-name="KANAL B" ,KANAL B
 http://212.174.58.161/hls-live/livepkgr/_definst_/liveevent/kanalb.m3u8
