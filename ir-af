@@ -1,0 +1,115 @@
+#EXTM3U
+#EXTINF:-1 group-title="kids" tvg-id="HodHodTV.ir" tvg-name="HodHod TV" tvg-logo="https://i.imgur.com/TMxCgX1.jpg" ,HodHod TV
+http://51.210.199.12/hls/stream.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="AVAFamily.ir" tvg-name="AVA Family" ,AVA Family
+http://51.210.199.5/hls/stream.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="AVASeries.ir" tvg-name="AVA Series" ,AVA Series
+http://51.210.199.4/hls/stream.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="ITNTV.ir" tvg-name="ITN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/Iran_TV_Network.png" ,ITN TV 
+https://2nbyjjx7y53k-hls-live.5centscdn.com/031820/ba22796be201dee03c46a9b0ada66145.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="Manoto.ir" tvg-name="Manoto" tvg-logo="https://dwphh95xlnw84.cloudfront.net/images/static/placeholder/manotologo.png" ,Manoto TV
+https://d2rwmwucnr0d10.cloudfront.net/live.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="PayamJavanTV.ir" tvg-name="Payam Javan TV" tvg-logo="https://payamjavan.com/wp-content/uploads/2019/05/logo-Payam-Javan.png" ,Payam Javan TV
+https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="MBCPersia.ae" tvg-name="MBC Persia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/MBC_Persia_Logo.png" ,MBC Persia 
+https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="OXIRTV.ir" tvg-name="OXIR TV" tvg-logo="https://i.imgur.com/q3cxxW3.jpg" ,OXIR TV
+http://51.210.199.36/hls/stream.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="RadioFarda.ir" tvg-name="Radio Farda" tvg-logo="https://i.imgur.com/NqTGH0Q.png" ,Radio Farda 
+https://rfe-lh.akamaihd.net/i/rfe_tvmc1@383622/master.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="iFILMPersian1.ir" tvg-name="iFILM Persian 1" tvg-logo="https://i.imgur.com/El4Ymh6.png" ,iFILM Persian 1 
+https://live.presstv.com/ifilmlive/smil:ifilmtv.smil/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="PBCTapeshTV.ir" tvg-name="PBC Tapesh TV" tvg-logo="http://www.tapesh.tv/wp-content/uploads/2017/08/tapesh-new-logo-300x300.png" ,PBC Tapesh TV
+http://iptv.tapesh.tv/tapesh/playlist1/index.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="IranBeautyWebradio.ir" tvg-name="Iran Beauty (Webradio)" tvg-logo="https://i.imgur.com/e8vc8vh.jpg" ,Iran Beauty (Webradio)
+http://51.210.199.57/hls/stream.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="PBCTapeshTV.ir" tvg-name="PBC Tapesh TV" tvg-logo="https://i.imgur.com/J0Oj78g.jpg" ,PBC Tapesh TV 
+http://iptv.tapesh.tv/tapesh/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="EBC1TV.ir" tvg-name="EBC1 TV" tvg-logo="https://www.livefarsi.com/uploads/tv_image/ebc1-tv.jpg" ,EBC1 TV 
+https://vsn1-cdn-phx.icastcenter.com/EBC1/EBC1/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="PMC.ir" tvg-name="PMC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1f/Persian_Media_Corporation.jpg" ,PMC
+https://hls.pmchd.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="RadioJavanTV.ir" tvg-name="Radio Javan TV" tvg-logo="https://i.imgur.com/4XTyMST.jpg" ,Radio Javan TV
+https://stream.rjtv.stream/live/smil:rjtv.smil/chunklist_w365906041_b1992000.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="RadioJavanTV.ir" tvg-name="Radio Javan TV" tvg-logo="https://i.imgur.com/4XTyMST.jpg" ,Radio Javan TV
+https://stream.rjtv.stream/live/smil:rjtv.smil/chunklist_w365906041_b2892000.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="RadioJavanTV.ir" tvg-name="Radio Javan TV" tvg-logo="https://i.imgur.com/4XTyMST.jpg" ,Radio Javan TV
+https://stream.rjtv.stream/live/smil:rjtv.smil/chunklist_w365906041_b746000.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="T2TV.ir" tvg-name="T2 TV" tvg-logo="https://i.imgur.com/BwyQR6n.png" ,T2 TV
+http://208.113.204.104:8123/live/tapesh-live-stream/index.m3u8
+#EXTINF:-1 group-title="News" tvg-id="PersianBazar.ir" tvg-name="Persian Bazar" tvg-logo="https://www.parsatv.com/index_files/channels/persianbazar.png" ,Persian Bazar
+https://stream.persiantv1.com/ptv1/playlist1/index.m3u8
+#EXTINF:-1 group-title="News" tvg-id="BloombergTVEMEALiveEvent.us" tvg-name="Bloomberg TV EMEA Live Event" tvg-logo="https://i.imgur.com/EEAwv8z.jpg" ,Bloomberg TV EMEA Live Event 
+https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_event.m3u8
+#EXTINF:-1 group-title="News" tvg-id="AyenehTV.ir" tvg-name="Ayeneh TV" tvg-logo="https://www.ayeneh.org/wp-content/uploads/2016/04/Ayeneh-TV-April-16-400x223.png" ,Ayeneh TV 
+https://livestream.5centscdn.com/cls040318/b0d2763968fd0bdd2dc0d44ba2abf9ce.sdp/playlist.m3u8
+#EXTINF:-1 group-title="News" tvg-id="HispanTVIran.ir" tvg-name="Hispan TV Iran" ,Hispan TV Iran
+https://live1.presstv.com/live/hispan.m3u8
+#EXTINF:-1 group-title="News" tvg-id="AlAlam.ir" tvg-name="Al Alam" ,Al Alam
+https://live2.alalamtv.net/live/Alalam/index.m3u8
+#EXTINF:-1 group-title="News" tvg-id="INTVSimayeAzadi.ir" tvg-name="INTV Simaye Azadi" tvg-logo="https://i.imgur.com/CTIINTk.png" ,INTV Simaye Azadi 
+https://sima-i.akamaihd.net/hls/live/624111/sima/index.m3u8
+#EXTINF:-1 group-title="News" tvg-id="ParnianTV.ir" tvg-name="Parnian TV" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ca-parnian-tv-9509.jpg" ,Parnian TV
+https://live2.parnian.tv/hls/live/play.m3u8
+#EXTINF:-1 group-title="News" tvg-id="ParsTV.ir" tvg-name="Pars TV" tvg-logo="https://i.imgur.com/EKS7sPr.png" ,Pars TV 
+https://livestream.5centscdn.com/cls032817/18e2bf34e2035dbabf48ee2db66405ce.sdp/index.m3u8
+#EXTINF:-1 group-title="News" tvg-id="RangarangTV.ir" tvg-name="Rangarang TV" tvg-logo="https://i.imgur.com/s5yF9aU.jpg" ,Rangarang TV 
+https://iptv.rangarang.us/live/playlist.m3u8
+#EXTINF:-1 group-title="News" tvg-id="SAHARKURDI.ir" tvg-name="SAHAR KURDI" ,SAHAR KURDI
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/56
+#EXTINF:-1 group-title="News" tvg-id="BBCPersian.uk" tvg-name="BBC Persian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_News_Persian_Logo.jpg" ,BBC Persian (540p)
+http://vs-hls-pushb-ww-live.akamaized.net/manifest/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_akamai_hls_live_http.m3u8
+#EXTINF:-1 group-title="News" tvg-id="Hispantv.ir" tvg-name="HispanTV" tvg-logo="https://en.wikipedia.org/wiki/File:HispanTv_logo.svg" ,HispanTV
+https://live.presstv.com/live/smil:live.smil/playlist.m3u8
+#EXTINF:-1 group-title="News" tvg-id="IranInternational.ir" tvg-name="Iran International" tvg-logo="https://i.imgur.com/oeiaea6.png" ,Iran International 
+https://live.playstop.me/LS-63503-4/index.m3u8
+#EXTINF:-1 group-title="News" tvg-id="MihanTV.ir" tvg-name="Mihan TV" tvg-logo="http://mihantv.com/wp-content/themes/mihantv/images/logo.png" ,Mihan TV
+https://iptv.mihantv.com/live/playlist1/index.m3u8
+#EXTINF:-1 group-title="News" tvg-id="PressTV.ir" tvg-name="Press TV" tvg-logo="https://i.imgur.com/TNQKahI.png" ,Press TV English 
+https://live.presstv.com/liveprs/smil:liveprs/playlist.m3u8
+#EXTINF:-1 group-title="News" tvg-id="VoAPersian.us" tvg-name="VoA Persian" tvg-logo="https://i.imgur.com/7uEI6ck.png" ,VoA Persian 
+https://voa-lh.akamaihd.net/i/voapnn_7@72817/master.m3u8
+#EXTINF:-1 group-title="News" tvg-id="BBCPersian.uk" tvg-name="BBC Persian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_News_Persian_Logo.jpg" ,BBC Persian 
+http://vs-cmaf-pushb-ww-live.akamaized.net/manifest/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_akamai_dash_live_http.mpd
+#EXTINF:-1 group-title="religious" tvg-id="AlZahraTV.ir" tvg-name="Al Zahra TV" tvg-logo="https://i.imgur.com/ffFbUmd.jpg" ,Al Zahra TV
+https://live.al-zahratv.com/live/playlist2/index.m3u8
+#EXTINF:-1 group-title="Religious" tvg-id="ImamHusseinTV.ir" tvg-name="Imam Hussein TV" tvg-logo="https://i.imgur.com/FPfq4O5.png" ,Imam Hussein TV 1
+https://live.imamhossaintv.com/live/ih103/index.m3u8
+#EXTINF:-1 group-title="Religious" tvg-id="KalemehTV.ir" tvg-name="Kalemeh TV" tvg-logo="https://i.imgur.com/HQjLbwm.png" ,Kalemeh TV 
+https://live.kalemehtv.tv/live/ngrp:kalemeh_all/playlist.m3u8
+#EXTINF:-1 group-title="Religious" tvg-id="KarbalaLive1.ir" tvg-name="Karbala Live 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Karbala_tv.jpg" ,Karbala Live 1 
+https://stream.alkafeel.net/live/alkafeel/rAa5PGot1/manifest.m3u8
+#EXTINF:-1 group-title="Religious" tvg-id="KarbalaLive4.ir" tvg-name="Karbala Live 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Karbala_tv.jpg" ,Karbala Live 4 
+https://stream.alkafeel.net/live/alkafeel/rAa5PGot4/manifest.m3u8
+#EXTINF:-1 group-title="Religious" tvg-id="PayvandTV.ir" tvg-name="Payvand TV" tvg-logo="http://nebula.wsimg.com/e903234fabf798439adab0207277eb7b?AccessKeyId=2686ECEA8341253D570E&disposition=0&alloworigin=1" ,Payvand TV 
+https://uni6rtmp.tulix.tv/ucur1/Payvand/playlist.m3u8
+#EXTINF:-1 group-title="Religious" tvg-id="TowheedTV.ae" tvg-name="Towheed TV" tvg-logo="https://i.imgur.com/nsxrqta.jpg" ,Towheed TV
+http://51.210.199.1/hls/stream.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="YourTimeTV.ir" tvg-name="YourTime TV" tvg-logo="https://yourtime.tv/img/utv-logo.png" ,YourTime TV
+https://hls.yourtime.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="VARZESHTVFARSI.ir" tvg-name="VARZESH TV FARSI" tvg-logo="https://i.imgur.com/ADQM8Pk.png" ,VARZESH TV FARSI
+http://51.210.199.16/hls/stream.m3u8
+#EXTINF:-1 group-title="AS | AFGANİSTAN" tvg-id="ArianaNews.af" tvg-name="Ariana News" tvg-logo="https://i.imgur.com/x8mlbJM.jpg" ,Ariana News 
+https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/playlist.m3u8
+#EXTINF:-1 group-title="AS | AFGANİSTAN" tvg-id="ArianaTV.af" tvg-name="Ariana TV" tvg-logo="https://i.imgur.com/8VbuI9n.png" ,Ariana TV 
+https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8
+#EXTINF:-1 group-title="AS | AFGANİSTAN" tvg-id="ArianaTV.af" tvg-name="Ariana TV" tvg-logo="https://i.imgur.com/8VbuI9n.png" ,Ariana TV 
+https://d2g7v53450s2i2.cloudfront.net/ATNUS/myStream/playlist.m3u8
+#EXTINF:-1 group-title="EN | Business" tvg-id="BloombergTVAsia.us" tvg-name="Bloomberg TV Asia" tvg-logo="https://i.imgur.com/XCbSfMb.jpg" ,Bloomberg TV Asia 
+https://cdn-videos.akamaized.net/btv/desktop/fastly/asia/live/primary.m3u8
+#EXTINF:-1 group-title="EN | Business" tvg-id="BloombergTVAsia.us" tvg-name="Bloomberg TV Asia" ,Bloomberg TV Asia 
+https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
+#EXTINF:-1 group-title="EN | Business" tvg-id="BloombergTVAsia.us" tvg-name="Bloomberg TV Asia" tvg-logo="https://i.imgur.com/3gi2eBn.jpg" ,Bloomberg TV Asia 
+https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/ap_live.m3u8
+#EXTINF:-1 group-title="EN | Business" tvg-id="BloombergTVAsia.us" tvg-name="Bloomberg TV Asia" tvg-logo="https://i.imgur.com/3gi2eBn.jpg" ,Bloomberg TV Asia 
+https://www.bloomberg.com/media-manifest/streams/asia.m3u8
+#EXTINF:-1 group-title="EN | Business" tvg-id="BloombergTVAsiaLiveEvent.us" tvg-name="Bloomberg TV Asia Live Event" tvg-logo="https://i.imgur.com/EEAwv8z.jpg" ,Bloomberg TV Asia Live Event 
+https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/ap_event.m3u8
+#EXTINF:-1 group-title="EN | Business" tvg-id="BloombergTVAsiaLiveEvent.us" tvg-name="Bloomberg TV Asia Live Event" tvg-logo="https://i.imgur.com/EEAwv8z.jpg" ,Bloomberg TV Asia Live Event 
+https://www.bloomberg.com/media-manifest/streams/asia-event.m3u8
+#EXTINF:-1 group-title="EN | Movies" tvg-id="priveHD.in" tvg-name="&privé HD" ,&privé HD
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="OTHER | MOVIES" tvg-id="Thrill.hk" tvg-name="Thrill" tvg-logo="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" ,Thrill 
+http://45.126.83.51/qwr9ew/s/s34/index.m3u8
+#EXTINF:-1 group-title="AS | AFGANİSTAN" tvg-id="11TV.es" tvg-name="11 TV" tvg-logo="https://i.imgur.com/Uo3iDXN.jpg" ,11 TV
+http://51.210.199.43/hls/stream.m3u8
